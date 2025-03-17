@@ -4,3 +4,4 @@ Através desse jogo comparamos atributos como: densidade demografica, populaçã
 Um projeto em três etapas: Novato, aventureiro e mestre.
 Sendo utilizado para as comparações, o switch, if, else e else if. 
 Hoje, acréscimo do nível Mestre. Nesse momento o jogador tem a possibilidade de escolher dois atributos na comparação. 
+Pronto.   
